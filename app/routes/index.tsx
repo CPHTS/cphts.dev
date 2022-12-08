@@ -14,6 +14,17 @@ export function links() {
   ];
 }
 
+export function meta() {
+  return {
+    "og:title": "Copenhagen TypeScript",
+    "og:type": "website",
+    "og:url": "https://cphts.dev",
+    "og:image": "https://cphts.dev/images/cphts-withtext.png",
+    "og:description":
+      "A new Copenhagen-based TypeScript-focused discussion-loving group of nerds meeting up every second month to debate whether type or interface is the correct way to go.",
+  };
+}
+
 export const action = newsletterAction;
 
 export default function Index() {
