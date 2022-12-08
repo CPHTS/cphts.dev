@@ -1,0 +1,29 @@
+fieldset {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 20px;
+}
+
+input,
+button {
+  border: 0;
+  font-size: 20px;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+
+input {
+  flex-grow: 1;
+}
+
+button {
+  background-color: white;
+  color: var(--highlight-color);
+}
+
+a {
+  color: inherit;
+  font-weight: 200;
+}

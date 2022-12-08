@@ -1,0 +1,10 @@
+h1 {
+  font-weight: 100;
+  font-size: max(36px, min(10vh, 12vw));
+  margin: 0;
+}
+h1 em {
+  font-style: normal;
+  color: var(--highlight);
+  transition: color 0.3s linear;
+}
