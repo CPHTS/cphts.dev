@@ -75,7 +75,7 @@ export default function Index() {
       <p>
         <strong>Focus</strong> will be framework-independent talks (so not too
         React/Svelte/Vue/Angular nerdy) though framework-specific topics are of
-        course allowed as well but should be generalized as well as possible.
+        course allowed but should be generalized as well as possible.
       </p>
       <p>
         <strong>Refreshments</strong> will be available as per the whims of the
