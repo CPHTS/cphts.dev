@@ -3,7 +3,15 @@ fieldset {
   margin: 0;
   padding: 0;
   display: flex;
+  flex-direction: column;
+  align-items: stretch;
   gap: 20px;
+}
+
+@media all and (min-width: 30em) {
+  fieldset {
+    flex-direction: row;
+  }
 }
 
 input,
