@@ -81,7 +81,7 @@ export function Newsletter() {
             with you and provide updates about the community. We will send you
             occasional emails about new events, links to videos, and important
             updates to keep you in the loop. By clicking above to submit this
-            form, you acknowledge that the information you provide wíll be
+            form, you acknowledge that the information you provide will be
             processed in accordance with our{" "}
             <a
               href="https://www.iubenda.com/privacy-policy/84514908"
