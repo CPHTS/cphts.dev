@@ -1,3 +1,4 @@
+import { Link } from "@remix-run/react";
 import { Header, headerLinks } from "~/components/header";
 import {
   Newsletter,
@@ -89,8 +90,8 @@ export default function Index() {
       </p>
       <p>
         <strong>Conduct</strong> will have to abide by our{" "}
-        <em>yet-to-be-written</em> code, which will be available before the
-        first meetup.
+        <Link to="/conduct">Code of Conduct</Link>. In short, be respectful and
+        professional, please. Don't harrass others and stay open-minded.
       </p>
     </main>
   );
