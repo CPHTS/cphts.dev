@@ -52,8 +52,12 @@ export default function Index() {
       <Newsletter />
       <hr />
       <p>
-        <strong>Meetups</strong> will start in January, and once we settle on a
-        location and schedule more information will follow.
+        <strong>Meetups</strong> will start on January 18th, and the signup
+        available over at{" "}
+        <a href="https://www.meetup.com/copenhagen-typescript-meetup-group/events/290834442/">
+          Meetup.com
+        </a>
+        . Please also join the meetup group there.
       </p>
       <p>
         <strong>Format</strong> will be short (~15 min) lightning talks and
